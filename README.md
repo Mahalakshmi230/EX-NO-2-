@@ -31,7 +31,7 @@ STEP-4: Group the plain text in pairs and match the corresponding corner letters
 STEP-5: Display the obtained cipher text.
 
 
-Program:
+# Program:
 
 ```
  #include <stdio.h>
@@ -154,7 +154,8 @@ a =plainText[i];
 }
 ```
 
-Output:
+# Output:
+
 ![Screenshot (49)](https://github.com/user-attachments/assets/d0418966-4e8a-474d-b2b3-b7dcda4d705d)
 
 # RESULT:
